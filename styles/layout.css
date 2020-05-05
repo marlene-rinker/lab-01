@@ -1,0 +1,24 @@
+header, footer {
+  width: 100%;
+}
+
+#one {
+  width: 100%;
+}
+
+section {
+  overflow: hidden;
+}
+
+.medium {
+  width: 100%;
+}
+
+.small {
+  width: 50%;
+  float: left;
+}
+
+footer {
+  float: clear;
+}
